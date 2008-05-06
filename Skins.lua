@@ -1,4 +1,4 @@
---[[ Caith for ButtonFacade v2.4.2 ]]
+--[[ Caith for ButtonFacade ]]
 
 local LibButtonFacade = LibStub("LibButtonFacade",true)
 if not LibButtonFacade then

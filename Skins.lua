@@ -51,6 +51,10 @@ LibButtonFacade:AddSkin("Caith",{
 		Height = 40,
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Normal]],
 		Static = true,
+		Red = 0.25,
+		Green = 0.25,
+		Blue = 0.25,
+		Alpha = 1,
 	},
 	Pushed = {
 		Width = 40,

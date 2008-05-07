@@ -10,8 +10,8 @@ LibButtonFacade:AddSkin("Caith",{
 
 	-- Skin data start.
 	Backdrop = {
-		Width = 40,
-		Height = 40,
+		Width = 42,
+		Height = 42,
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Backdrop]],
 	},
 	Icon = {
@@ -20,14 +20,14 @@ LibButtonFacade:AddSkin("Caith",{
 		TexCoords = {0.07,0.93,0.07,0.93},
 	},
 	Border = {
-		Width = 40,
-		Height = 40,
+		Width = 42,
+		Height = 42,
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Equip]],
 		BlendMode = "ADD",
 	},
 	Flash = {
-		Width = 40,
-		Height = 40,
+		Width = 42,
+		Height = 42,
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Flash]],
 	},
 	Cooldown = {
@@ -47,8 +47,8 @@ LibButtonFacade:AddSkin("Caith",{
 		OffsetY = -0.5,
 	},
 	Normal = {
-		Width = 40,
-		Height = 40,
+		Width = 42,
+		Height = 42,
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Normal]],
 		Static = true,
 		Red = 0.25,
@@ -57,46 +57,46 @@ LibButtonFacade:AddSkin("Caith",{
 		Alpha = 1,
 	},
 	Pushed = {
-		Width = 40,
-		Height = 40,
+		Width = 42,
+		Height = 42,
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Pushed]],
 	},
 	Disabled = {
 		Hide = true,
 	},
 	Checked = {
-		Width = 40,
-		Height = 40,
+		Width = 42,
+		Height = 42,
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Checked]],
 		BlendMode = "ADD",
 	},
 	Gloss = {
-		Width = 40,
-		Height = 40,
+		Width = 42,
+		Height = 42,
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Gloss]],
 	},
 	Highlight = {
-		Width = 40,
-		Height = 40,
+		Width = 42,
+		Height = 42,
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Highlight]],
 		BlendMode = "ADD",
 	},
 	HotKey = {
-		Width = 40,
+		Width = 42,
 		Height = 10,
-		OffsetX = -4,
-		OffsetY = 8,
+		OffsetX = -2,
+		OffsetY = 10,
 	},
 	Count = {
-		Width = 40,
+		Width = 42,
 		Height = 10,
-		OffsetX = -4,
-		OffsetY = -8,
+		OffsetX = -2,
+		OffsetY = -10,
 	},
 	Name = {
-		Width = 40,
+		Width = 42,
 		Height = 10,
-		OffsetY = -8,
+		OffsetY = -10,
 	},
 	-- Skin data end.
 

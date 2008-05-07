@@ -2,14 +2,14 @@
 
 ## Title: ButtonFacade: |cffff8000Caith|r
 ## Notes: Caith skin for Button Facade.
-## Version: 2.4.3
+## Version: 2.4.5
 
 ## Author: StormFX
 ## X-eMail: stormfx@gmail.com
 ## X-Website: http://www.wowace.com
 ## X-AceForum: 13279
 ## X-RelSite-WoWI: 8869
-## X-Credits: JJ Sheets for Button Facade. Zeal for Vol and Caith for the tweaks.
+## X-Credits: JJ Sheets for Button Facade. Zeal for Vol and Caith for modifications.
 
 ## X-Category: Action Bars
 ## OptionalDeps: LibButtonFacade, ButtonFacade

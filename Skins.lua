@@ -12,6 +12,7 @@ LibButtonFacade:AddSkin("Caith",{
 	Backdrop = {
 		Width = 42,
 		Height = 42,
+		Color = {1, 1, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Backdrop]],
 	},
 	Icon = {
@@ -22,13 +23,15 @@ LibButtonFacade:AddSkin("Caith",{
 	Border = {
 		Width = 42,
 		Height = 42,
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Equip]],
 		BlendMode = "ADD",
+		Color = {0, 1, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
 	},
 	Flash = {
 		Width = 42,
 		Height = 42,
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Flash]],
+		Color = {1, 0, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Overlay]],
 	},
 	Cooldown = {
 		Width = 32,
@@ -42,24 +45,22 @@ LibButtonFacade:AddSkin("Caith",{
 	AutoCastable = {
 		Width = 64,
 		Height = 64,
-		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
 		OffsetX = 0.5,
 		OffsetY = -0.5,
+		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
 	},
 	Normal = {
 		Width = 42,
 		Height = 42,
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Normal]],
 		Static = true,
-		Red = 0.25,
-		Green = 0.25,
-		Blue = 0.25,
-		Alpha = 1,
+		Color = {0.25, 0.25, 0.25, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Normal]],
 	},
 	Pushed = {
 		Width = 42,
 		Height = 42,
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Pushed]],
+		Color = {0, 0, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Overlay]],
 	},
 	Disabled = {
 		Hide = true,
@@ -67,8 +68,9 @@ LibButtonFacade:AddSkin("Caith",{
 	Checked = {
 		Width = 42,
 		Height = 42,
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Checked]],
 		BlendMode = "ADD",
+		Color = {0, 0.75, 1, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
 	},
 	Gloss = {
 		Width = 42,
@@ -78,8 +80,9 @@ LibButtonFacade:AddSkin("Caith",{
 	Highlight = {
 		Width = 42,
 		Height = 42,
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Highlight]],
 		BlendMode = "ADD",
+		Color = {1, 1, 1, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Highlight]],
 	},
 	HotKey = {
 		Width = 42,

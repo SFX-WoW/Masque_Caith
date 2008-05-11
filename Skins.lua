@@ -42,18 +42,18 @@ LibButtonFacade:AddSkin("Caith",{
 		Color = {0.25, 0.25, 0.25, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Normal]],
 	},
+	Pushed = {
+		Width = 42,
+		Height = 42,
+		Color = {0, 0, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Overlay]],
+	},
 	Border = {
 		Width = 42,
 		Height = 42,
 		BlendMode = "ADD",
 		Color = {0, 1, 0, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
-	},
-	Pushed = {
-		Width = 42,
-		Height = 42,
-		Color = {0, 0, 0, 1},
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Overlay]],
 	},
 	Disabled = {
 		Hide = true,
@@ -72,17 +72,17 @@ LibButtonFacade:AddSkin("Caith",{
 		OffsetY = -0.5,
 		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
 	},
-	Gloss = {
-		Width = 42,
-		Height = 42,
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Gloss]],
-	},
 	Highlight = {
 		Width = 42,
 		Height = 42,
 		BlendMode = "ADD",
 		Color = {1, 1, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Highlight]],
+	},
+	Gloss = {
+		Width = 42,
+		Height = 42,
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Gloss]],
 	},
 	HotKey = {
 		Width = 42,

@@ -20,13 +20,6 @@ LibButtonFacade:AddSkin("Caith",{
 		Height = 32,
 		TexCoords = {0.07,0.93,0.07,0.93},
 	},
-	Border = {
-		Width = 42,
-		Height = 42,
-		BlendMode = "ADD",
-		Color = {0, 1, 0, 1},
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
-	},
 	Flash = {
 		Width = 42,
 		Height = 42,
@@ -42,19 +35,19 @@ LibButtonFacade:AddSkin("Caith",{
 		Height = 32,
 		ModelScale = 1.0,
 	},
-	AutoCastable = {
-		Width = 64,
-		Height = 64,
-		OffsetX = 0.5,
-		OffsetY = -0.5,
-		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
-	},
 	Normal = {
 		Width = 42,
 		Height = 42,
 		Static = true,
 		Color = {0.25, 0.25, 0.25, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Normal]],
+	},
+	Border = {
+		Width = 42,
+		Height = 42,
+		BlendMode = "ADD",
+		Color = {0, 1, 0, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
 	},
 	Pushed = {
 		Width = 42,
@@ -71,6 +64,13 @@ LibButtonFacade:AddSkin("Caith",{
 		BlendMode = "ADD",
 		Color = {0, 0.75, 1, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
+	},
+	AutoCastable = {
+		Width = 64,
+		Height = 64,
+		OffsetX = 0.5,
+		OffsetY = -0.5,
+		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
 	},
 	Gloss = {
 		Width = 42,

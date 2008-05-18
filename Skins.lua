@@ -16,9 +16,8 @@ LibButtonFacade:AddSkin("Caith",{
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Backdrop]],
 	},
 	Icon = {
-		Width = 32,
-		Height = 32,
-		TexCoords = {0.07,0.93,0.07,0.93},
+		Width = 36,
+		Height = 36,
 	},
 	Flash = {
 		Width = 42,
@@ -27,8 +26,8 @@ LibButtonFacade:AddSkin("Caith",{
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Overlay]],
 	},
 	Cooldown = {
-		Width = 32,
-		Height = 32,
+		Width = 36,
+		Height = 36,
 	},
 	AutoCast = {
 		Width = 32,

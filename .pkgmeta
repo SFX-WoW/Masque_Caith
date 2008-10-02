@@ -1,1 +1,4 @@
 package-as: ButtonFacade_Caith
+
+required-dependencies:
+	- buttonfacade

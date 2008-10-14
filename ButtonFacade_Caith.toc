@@ -1,8 +1,8 @@
-## Interface: 20400
+## Interface: 30000
 
 ## Title: ButtonFacade: |cffff8000Caith|r
 ## Notes: Caith skin for Button Facade.
-## Version: 2.4.3
+## Version: 3.0.2
 
 ## Author: StormFX
 ## X-eMail: stormfx@gmail.com

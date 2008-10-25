@@ -32,7 +32,9 @@ LibButtonFacade:AddSkin("Caith",{
 	AutoCast = {
 		Width = 32,
 		Height = 32,
-		ModelScale = 1.0,
+		OffsetX = 1,
+		OffsetY = -1,
+		AboveNormal = true;
 	},
 	Normal = {
 		Width = 42,

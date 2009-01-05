@@ -1,6 +1,6 @@
 The contents of this add-on, excluding third-party resources, are copyrighted to its author with all rights reserved, under United States and international copyright law. The author of this add-on hereby grants you the following permissions:
 
-You MAY download, install and use this project for your own personal use.
+You MAY download, install and use this add-on for your own personal use.
 
 You MAY use code from this add-on, in whole or in part, in your own project provided that the name and code of the target project contain no references to the name of this add-on or its author.
 

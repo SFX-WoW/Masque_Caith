@@ -1,12 +1,12 @@
---[[ Caith skin for ButtonFacade ]]
+--[[ Caith @project-version@ ]]
 
-local LibButtonFacade = LibStub("LibButtonFacade",true)
-if not LibButtonFacade then
+local LBF = LibStub("LibButtonFacade", true)
+if not LBF then
 	return
 end
 
 -- Caith
-LibButtonFacade:AddSkin("Caith",{
+LBF:AddSkin("Caith", {
 
 	-- Skin data start.
 	Backdrop = {
@@ -34,7 +34,7 @@ LibButtonFacade:AddSkin("Caith",{
 		Height = 32,
 		OffsetX = 1,
 		OffsetY = -1,
-		AboveNormal = true;
+		AboveNormal = true,
 	},
 	Normal = {
 		Width = 42,
@@ -53,7 +53,6 @@ LibButtonFacade:AddSkin("Caith",{
 		Width = 42,
 		Height = 42,
 		BlendMode = "ADD",
-		Color = {0, 1, 0, 1},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
 	},
 	Disabled = {
@@ -104,4 +103,4 @@ LibButtonFacade:AddSkin("Caith",{
 	},
 	-- Skin data end.
 
-},true)
+}, true)

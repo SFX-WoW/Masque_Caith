@@ -22,7 +22,7 @@ LBF:AddSkin("Caith", {
 	Flash = {
 		Width = 42,
 		Height = 42,
-		Color = {1, 0, 0, 1},
+		Color = {1, 0, 0, 0.5},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Overlay]],
 	},
 	Cooldown = {
@@ -46,7 +46,7 @@ LBF:AddSkin("Caith", {
 	Pushed = {
 		Width = 42,
 		Height = 42,
-		Color = {0, 0, 0, 1},
+		Color = {0, 0, 0, 0.5},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Overlay]],
 	},
 	Border = {
@@ -62,7 +62,7 @@ LBF:AddSkin("Caith", {
 		Width = 42,
 		Height = 42,
 		BlendMode = "ADD",
-		Color = {0, 0.75, 1, 1},
+		Color = {0, 0.75, 1, 0.5},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
 	},
 	AutoCastable = {
@@ -76,7 +76,7 @@ LBF:AddSkin("Caith", {
 		Width = 42,
 		Height = 42,
 		BlendMode = "ADD",
-		Color = {1, 1, 1, 1},
+		Color = {1, 1, 1, 0.5},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Highlight]],
 	},
 	Gloss = {

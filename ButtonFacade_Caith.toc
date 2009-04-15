@@ -1,4 +1,4 @@
-## Interface: 30000
+## Interface: 30100
 ## Title: ButtonFacade: |cffff8000Caith|r
 ## Version: 3.0.@project-revision@
 ## Notes: Caith skin for Button Facade.

@@ -1,0 +1,2 @@
+Release Notes:
+- Updated ToC for 3.2.

@@ -1,3 +1,4 @@
 Release Notes:
 - Updated ToC for 3.2.
 - Packager tweaks.
+- About.txt

@@ -4,4 +4,4 @@ required-dependencies:
    - buttonfacade
 
 license-output: License.txt
-manual-changelog: Release.txt
+manual-changelog: History.txt

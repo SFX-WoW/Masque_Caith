@@ -1,5 +1,9 @@
 Release Notes:
 
+3.3.59
+
+- Equip border color.
+
 3.3.57
 
 - Update ToC to 3.3.

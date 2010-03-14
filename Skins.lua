@@ -53,6 +53,7 @@ LBF:AddSkin("Caith", {
 		Width = 42,
 		Height = 42,
 		BlendMode = "ADD",
+		Color = {0, 1, 0, 0.3},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
 	},
 	Disabled = {

@@ -1,14 +1,10 @@
 --[[ Caith @project-version@ ]]
 
 local LBF = LibStub("LibButtonFacade", true)
-if not LBF then
-	return
-end
+if not LBF then return end
 
 -- Caith
 LBF:AddSkin("Caith", {
-
-	-- Skin data start.
 	Backdrop = {
 		Width = 42,
 		Height = 42,
@@ -19,42 +15,28 @@ LBF:AddSkin("Caith", {
 		Width = 36,
 		Height = 36,
 	},
-	Flash = {
-		Width = 42,
-		Height = 42,
-		Color = {1, 0, 0, 0.5},
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Overlay]],
-	},
-	Cooldown = {
-		Width = 36,
-		Height = 36,
-	},
-	AutoCast = {
-		Width = 32,
-		Height = 32,
-		OffsetX = 1,
-		OffsetY = -1,
-		AboveNormal = true,
-	},
-	Normal = {
-		Width = 42,
-		Height = 42,
-		Static = true,
-		Color = {0.25, 0.25, 0.25, 1},
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Normal]],
-	},
 	Pushed = {
 		Width = 42,
 		Height = 42,
 		Color = {0, 0, 0, 0.5},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Overlay]],
 	},
-	Border = {
+	Flash = {
 		Width = 42,
 		Height = 42,
-		BlendMode = "ADD",
-		Color = {0, 1, 0, 0.3},
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
+		Color = {1, 0, 0, 0.3},
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Overlay]],
+	},
+	Cooldown = {
+		Width = 36,
+		Height = 36,
+	},
+	Normal = {
+		Width = 42,
+		Height = 42,
+		Static = true,
+		Color = {0.3, 0.3, 0.3, 1},
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Normal]],
 	},
 	Disabled = {
 		Hide = true,
@@ -63,8 +45,28 @@ LBF:AddSkin("Caith", {
 		Width = 42,
 		Height = 42,
 		BlendMode = "ADD",
-		Color = {0, 0.75, 1, 0.5},
+		Color = {0, 0.8, 1, 0.5},
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
+	},
+	Border = {
+		Width = 42,
+		Height = 42,
+		BlendMode = "ADD",
+		Color = {0, 1, 0, 0.3},
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
+	},
+	Highlight = {
+		Width = 42,
+		Height = 42,
+		BlendMode = "ADD",
+		Color = {1, 1, 1, 0.3},
+		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Highlight]],
+	},
+	AutoCast = {
+		Width = 32,
+		Height = 32,
+		OffsetX = 1,
+		OffsetY = -1,
 	},
 	AutoCastable = {
 		Width = 64,
@@ -73,17 +75,11 @@ LBF:AddSkin("Caith", {
 		OffsetY = -0.5,
 		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
 	},
-	Highlight = {
-		Width = 42,
-		Height = 42,
-		BlendMode = "ADD",
-		Color = {1, 1, 1, 0.5},
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Highlight]],
-	},
 	Gloss = {
 		Width = 42,
 		Height = 42,
 		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Gloss]],
+		Color = {1, 1, 1, 0.5},
 	},
 	HotKey = {
 		Width = 42,
@@ -102,6 +98,4 @@ LBF:AddSkin("Caith", {
 		Height = 10,
 		OffsetY = -10,
 	},
-	-- Skin data end.
-
 }, true)

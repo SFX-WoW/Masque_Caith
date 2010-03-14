@@ -1,8 +1,9 @@
 Release Notes:
 
-3.3.59
+3.3.60
 
 - Equip border color.
+- Code optimization.
 
 3.3.57
 

@@ -1,5 +1,9 @@
 Release Notes:
 
+3.3.61
+
+- Removed the border color.
+
 3.3.60
 
 - Equip border color.

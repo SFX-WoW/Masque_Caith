@@ -1,6 +1,6 @@
-## Interface: 30300
+## Interface: 40000
 ## Title: ButtonFacade: |cffff8000Caith|r
-## Version: 3.3.@project-revision@
+## Version: 4.0.@project-revision@
 ## Notes: Caith skin for ButtonFacade.
 ## Notes-deDE: Caith Skins für ButtonFacade.
 ## Notes-esMX: Caith texturas para ButtonFacade.

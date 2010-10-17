@@ -1,5 +1,10 @@
 Release Notes:
 
+4.0.62
+
+- Update ToC to 4000.
+- HotKey tweaks.
+
 3.3.61
 
 - Removed the border color.

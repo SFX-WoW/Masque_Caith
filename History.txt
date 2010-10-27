@@ -1,5 +1,9 @@
 Release Notes:
 
+4.0.64
+
+- Update for latest ButtonFacade.
+
 4.0.62
 
 - Update ToC to 4000.

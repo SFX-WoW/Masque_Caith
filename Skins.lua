@@ -5,6 +5,7 @@ if not LBF then return end
 
 -- Caith
 LBF:AddSkin("Caith", {
+	LBF_Version = 40000,
 	Backdrop = {
 		Width = 42,
 		Height = 42,
@@ -75,19 +76,19 @@ LBF:AddSkin("Caith", {
 	Name = {
 		Width = 42,
 		Height = 10,
-		OffsetY = -10,
+		OffsetY = 2,
 	},
 	Count = {
 		Width = 42,
 		Height = 10,
-		OffsetX = -3,
-		OffsetY = -10,
+		OffsetY = 2,
+		FontSize = 13,
 	},
 	HotKey = {
 		Width = 42,
 		Height = 10,
-		OffsetX = -3,
-		OffsetY = 10,
+		OffsetX = -6,
+		OffsetY = -3,
 	},
 	AutoCast = {
 		Width = 32,

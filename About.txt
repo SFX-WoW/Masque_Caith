@@ -1,16 +1,17 @@
-Caith is a skin for ButtonFacade that will add some custom button styles to the supported action bars. This skin was inspired by Caith UI and is based on Apathy.
+Caith is a button skin for Masque.
 
-  Project Page: http://www.wowace.com/projects/buttonfacade_caith
-  Forum Thread: http://forums.wowace.com/showthread.php?t=12534
-  ButtonFacade: http://www.wowace.com/projects/buttonfacade
+Resources:
 
-- Installation -
+  Project Page: http://www.wowace.com/projects/masque_caith
+  Masque: http://www.wowace.com/projects/masque
+
+Installation:
 
   1. Download the package.
   2. Extract the package to your "World of Warcraft\Interface\AddOns" directory.
 
-  Note: You must have ButtonFacade installed to use this add-on.
+  Note: You must have Masque installed to use this add-on.
 
-- Feedback -
+Feedback:
 
-Please post all comments in the forum thread listed above. For bug reports and suggestions, please post a ticket on the project page.
+For bug reports and suggestions, please post a ticket on the project page.

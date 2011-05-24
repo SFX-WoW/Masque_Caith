@@ -1,15 +1,17 @@
 --[[ Caith @project-version@ ]]
 
-local LBF = LibStub("LibButtonFacade", true)
-if not LBF then return end
+if not LibMasque then return end
 
 -- Caith
-LBF:AddSkin("Caith", {
-	LBF_Version = 40000,
+LibMasque("Button"):AddSkin("Caith", {
+	Author = "StormFX",
+	Version = "4.1.@project-revision@",
+	Shape = "Square",
+	Masque_Version = 40100,
 	Backdrop = {
 		Width = 42,
 		Height = 42,
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Backdrop]],
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Backdrop]],
 	},
 	Icon = {
 		Width = 36,
@@ -19,7 +21,7 @@ LBF:AddSkin("Caith", {
 		Width = 42,
 		Height = 42,
 		Color = {1, 0, 0, 0.3},
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Overlay]],
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Overlay]],
 	},
 	Cooldown = {
 		Width = 36,
@@ -29,14 +31,13 @@ LBF:AddSkin("Caith", {
 		Width = 42,
 		Height = 42,
 		Color = {0, 0, 0, 0.5},
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Overlay]],
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Overlay]],
 	},
 	Normal = {
 		Width = 42,
 		Height = 42,
-		Static = true,
 		Color = {0.3, 0.3, 0.3, 1},
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Normal]],
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Normal]],
 	},
 	Disabled = {
 		Hide = true,
@@ -46,18 +47,18 @@ LBF:AddSkin("Caith", {
 		Height = 42,
 		BlendMode = "ADD",
 		Color = {0, 0.8, 1, 0.5},
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
 	},
 	Border = {
 		Width = 42,
 		Height = 42,
 		BlendMode = "ADD",
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Border]],
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
 	},
 	Gloss = {
 		Width = 42,
 		Height = 42,
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Gloss]],
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Gloss]],
 	},
 	AutoCastable = {
 		Width = 64,
@@ -71,7 +72,7 @@ LBF:AddSkin("Caith", {
 		Height = 42,
 		BlendMode = "ADD",
 		Color = {1, 1, 1, 0.3},
-		Texture = [[Interface\AddOns\ButtonFacade_Caith\Textures\Highlight]],
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Highlight]],
 	},
 	Name = {
 		Width = 42,
@@ -88,6 +89,11 @@ LBF:AddSkin("Caith", {
 		Width = 42,
 		Height = 10,
 		OffsetX = -6,
+		OffsetY = -3,
+	},
+	Duration = {
+		Width = 42,
+		Height = 10,
 		OffsetY = -3,
 	},
 	AutoCast = {

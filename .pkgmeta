@@ -1,7 +1,7 @@
-package-as: ButtonFacade_Caith
+package-as: Masque_Caith
 
 required-dependencies:
-   - buttonfacade
+  - masque
 
 license-output: License.txt
-manual-changelog: History.txt
+manual-changelog: ChangeLog.txt

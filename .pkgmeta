@@ -3,5 +3,8 @@ package-as: Masque_Caith
 required-dependencies:
   - masque
 
+ignore:
+  - History.txt
+
 license-output: License.txt
 manual-changelog: ChangeLog.txt

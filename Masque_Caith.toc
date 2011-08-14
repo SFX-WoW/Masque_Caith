@@ -1,15 +1,7 @@
-## Interface: 40100
+## Interface: 40200
 ## Title: Masque: |cffff8000Caith|r
-## Version: 4.1.@project-revision@
+## Version: 4.2.@project-revision@
 ## Notes: Caith skin for Masque.
-## Notes-deDE: Caith Skins für Masque.
-## Notes-esMX: Caith texturas para Masque.
-## Notes-esES: Caith texturas para Masque.
-## Notes-frFR: Skin Caith pour Masque.
-## Notes-koKR: Masque에 대한 Caith 스킨.
-## Notes-ruRU: Caith Шкурки для Masque.
-## Notes-zhCN: 为Masque Caith皮肤。
-## Notes-zhTW: Caith皮膚的Masque。
 ## Author: StormFX
 ## OptionalDeps: Masque
 ## X-Website: http://www.wowace.com/projects/masque_caith
@@ -17,4 +9,4 @@
 ## X-Credits: Zeal, Caith
 ## X-WoWI-ID: 8869
 
-Skins.lua
+Caith.lua

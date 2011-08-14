@@ -1,13 +1,23 @@
---[[ Caith @project-version@ ]]
+--[[
+	This file is part of 'Masque: Caith', an add-on for World of Warcraft. For license information,
+	please see the included License.txt file.
 
-if not LibMasque then return end
+	* File.....: Caith.lua
+	* Revision.: @file-revision@
+	* Author...: StormFX
+
+	Caith Skin
+]]
+
+local MSQ = LibStub("Masque")
+if not MSQ then return end
 
 -- Caith
-LibMasque("Button"):AddSkin("Caith", {
+MSQ:AddSkin("Caith", {
 	Author = "StormFX",
-	Version = "4.1.@project-revision@",
+	Version = "4.2.@project-revision@",
 	Shape = "Square",
-	Masque_Version = 40100,
+	Masque_Version = 40200,
 	Backdrop = {
 		Width = 42,
 		Height = 42,

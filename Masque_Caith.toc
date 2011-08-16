@@ -3,7 +3,7 @@
 ## Version: 4.2.@project-revision@
 ## Notes: Caith skin for Masque.
 ## Author: StormFX
-## OptionalDeps: Masque
+## Dependencies: Masque
 ## X-Website: http://www.wowace.com/projects/masque_caith
 ## X-Category: Interface Enhancements
 ## X-Credits: Zeal, Caith

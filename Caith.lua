@@ -9,7 +9,7 @@
 	Caith Skin
 ]]
 
-local MSQ = LibStub("Masque")
+local MSQ = LibStub("Masque", true)
 if not MSQ then return end
 
 -- Caith

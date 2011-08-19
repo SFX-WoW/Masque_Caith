@@ -1,4 +1,4 @@
-Caith is a button skin for Masque.
+Caith is a skin for Masque.
 
 Resources:
 

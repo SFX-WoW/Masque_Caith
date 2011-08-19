@@ -93,7 +93,6 @@ MSQ:AddSkin("Caith", {
 		Width = 42,
 		Height = 10,
 		OffsetY = 2,
-		FontSize = 13,
 	},
 	HotKey = {
 		Width = 42,

@@ -1,4 +1,8 @@
-=== v4.2.76 ===
+== v4.3.78 ==
+
+* Updated to 4.3.
+
+== v4.2.76 ==
 
 * Renamed to **Masque_Caith**.
 * Updated to Masque's API.

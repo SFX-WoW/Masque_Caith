@@ -1,6 +1,6 @@
-## Interface: 40200
+## Interface: 40300
 ## Title: Masque: |cffff8000Caith|r
-## Version: 4.2.@project-revision@
+## Version: 4.3.@project-revision@
 ## Author: StormFX
 ## Notes: Caith skin for Masque.
 ## Notes-deDE: Caith-Skin für Masque.

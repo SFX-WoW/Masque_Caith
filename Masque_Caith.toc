@@ -1,6 +1,6 @@
-## Interface: 50300
+## Interface: 50400
 ## Title: Masque: |cffff8000Caith|r
-## Version: 5.3.@project-revision@
+## Version: 5.4.@project-revision@
 ## Author: StormFX
 ## Notes: Caith skin for Masque.
 ## Notes-deDE: Caith-Skin für Masque.

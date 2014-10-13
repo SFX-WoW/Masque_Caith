@@ -8,5 +8,5 @@ enable-nolib-creation: no
 license-output: Docs/License.txt
 
 manual-changelog:
-  filename: Docs/History.txt
+  filename: Docs/Update.txt
   markup-type: creole

@@ -112,3 +112,14 @@ MSQ:AddSkin("Caith", {
 		OffsetY = -1,
 	},
 }, true)
+
+-- No Shadow
+MSQ:AddSkin("Caith: No Shadow", {
+	Template = "Caith",
+	Normal = {
+		Width = 42,
+		Height = 42,
+		Color = {0.3, 0.3, 0.3, 1},
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Normal_NS]],
+	},
+}, true)

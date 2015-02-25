@@ -1,4 +1,8 @@
-== v6.0.0 ==
+=== __v6.1.0__ ===
+
+* ToC update.
+
+=== __v6.0.0__ ===
 
 * ToC update for WoD.
 * Added a version with no shadow.

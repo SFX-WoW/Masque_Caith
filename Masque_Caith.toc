@@ -1,6 +1,6 @@
-## Interface: 60100
+## Interface: 60200
 ## Title: Masque: |cffff8000Caith|r
-## Version: 6.1.0
+## Version: 6.2.0
 ## Author: StormFX
 ## Notes: Caith skin for Masque.
 ## Notes-deDE: Caith-Skin für Masque.

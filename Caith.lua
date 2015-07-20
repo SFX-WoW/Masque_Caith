@@ -15,9 +15,9 @@ if not MSQ then return end
 -- Caith
 MSQ:AddSkin("Caith", {
 	Author = "StormFX",
-	Version = "6.1.0",
+	Version = "6.2.0",
 	Shape = "Square",
-	Masque_Version = 60100,
+	Masque_Version = 60200,
 	Backdrop = {
 		Width = 42,
 		Height = 42,

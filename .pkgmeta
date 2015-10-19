@@ -5,8 +5,9 @@ required-dependencies:
 
 enable-nolib-creation: no
 
-license-output: Docs/License.txt
-
 manual-changelog:
-  filename: Docs/Update.txt
-  markup-type: creole
+  filename: RELEASE.md
+  markup-type: markdown
+
+ignore:
+  - RELEASE.md

@@ -1,4 +1,4 @@
-## Interface: 60200
+## Interface: 70000
 ## Title: Masque: |cffff8000Caith|r
 ## Version: @project-version@
 ## Author: StormFX

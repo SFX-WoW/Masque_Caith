@@ -97,20 +97,21 @@ MSQ:AddSkin("Caith", {
 	Count = {
 		Width = 42,
 		Height = 10,
-		OffsetY = 2,
+		OffsetX = -3,
+		OffsetY = 6,
 	},
 	HotKey = {
 		Width = 42,
 		Height = 10,
-		OffsetX = -6,
-		OffsetY = -3,
+		OffsetX = -8,
+		OffsetY = -5,
 	},
 	Duration = {
 		Width = 42,
 		Height = 10,
 		OffsetY = -3,
 	},
-	AutoCast = {
+	Shine = {
 		Width = 32,
 		Height = 32,
 		OffsetX = 1,
@@ -118,7 +119,7 @@ MSQ:AddSkin("Caith", {
 	},
 }, true)
 
--- No Shadow
+-- Caith: No Shadow
 MSQ:AddSkin("Caith: No Shadow", {
 	Template = "Caith",
 	Normal = {

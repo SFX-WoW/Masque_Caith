@@ -1,6 +1,3 @@
-### 7.0.0 ###
+### 7.1.0 ###
 
-- ToC to 70000.
-- Update version.
-- Rename "Autocast" to "Shine".
-- Adjust text positions.
+- ToC to 70100.

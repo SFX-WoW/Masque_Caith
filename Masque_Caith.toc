@@ -9,7 +9,7 @@
 ## Notes-esMX: Skin Caith para Masque.
 ## Notes-itIT: Skin Caith per Masque.
 ## Notes-zhTW: Masque的Caith皮膚。
-## X-Website: http://www.wowace.com/projects/masque-caith
+## X-Website: https://www.wowace.com/projects/masque-caith
 ## X-Category: Interface Enhancements
 ## X-Credits: Zeal, Caith
 ## X-WoWI-ID: 8869

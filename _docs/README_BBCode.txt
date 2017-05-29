@@ -27,9 +27,10 @@ This skin set contains the following skins:
 [COLOR=Orange][SIZE="4"]Links[/SIZE][/COLOR]
 
 [LIST]
+[*] [URL="https://github.com/stormfx/masque/wiki/skin-list"]Get More Skins[/URL]
 [*] [URL="https://www.wowace.com/projects/masque"]Masque Project Page[/URL]
 [*] [URL="https://www.facebook.com/masqueui"]Masque Facebook Page[/URL]
-[*] [URL="https://github.com/stormfx/masque/wiki/skin-list"]Get More Skins[/URL]
+[*] [URL="https://github.com/stormfx/masque/wiki"]Masque Wiki[/URL]
 [/LIST]
 
 [COLOR=Orange][SIZE="4"]Credits[/SIZE][/COLOR]

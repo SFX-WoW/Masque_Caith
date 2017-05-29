@@ -23,9 +23,10 @@ Install the package through your preferred add-on manager. You can also install 
 
 ### Links ###
 
+- [Get More Skins](https://github.com/stormfx/masque/wiki/skin-list "Masque Skin List")
 - [Masque Project Page][Masque]
 - [Masque Facebook Page](https://www.facebook.com/masqueui "Masque on Facebook")
-- [Get More Skins](https://github.com/stormfx/masque/wiki/skin-list "Masque Skin List")
+- [Masque Wiki](https://github.com/stormfx/masque/wiki "Masque Wiki")
 
 ### Credits ###
 

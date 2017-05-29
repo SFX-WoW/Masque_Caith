@@ -4,8 +4,6 @@
 	please see the included License.txt file.
 
 	* File...: Caith.lua
-	* Date...: @file-date-iso@
-	* Hash...: @file-abbreviated-hash@
 	* Author.: StormFX
 
 ]]
@@ -13,12 +11,15 @@
 local MSQ = LibStub("Masque", true)
 if not MSQ then return end
 
+local AddOn, _ = ...
+local Version = GetAddOnMetadata(AddOn, "Version")
+
 -- Caith
 MSQ:AddSkin("Caith", {
 	Author = "StormFX",
-	Version = "@project-version@",
+	Version = Version,
 	Shape = "Square",
-	Masque_Version = 60200,
+	Masque_Version = 70200,
 	Backdrop = {
 		Width = 42,
 		Height = 42,
@@ -119,8 +120,8 @@ MSQ:AddSkin("Caith", {
 	},
 }, true)
 
--- Caith: No Shadow
-MSQ:AddSkin("Caith: No Shadow", {
+-- Caith - No Shadow
+MSQ:AddSkin("Caith - No Shadow", {
 	Template = "Caith",
 	Normal = {
 		Width = 42,

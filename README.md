@@ -29,7 +29,8 @@ Install the package through your preferred add-on manager. You can also install 
 
 ### Credits ###
 
-Thanks to Caith for his UI.
+- Caith for his UI.
+- [Zeal](https://www.wowace.com/members/zeal) for the original _Vol_ skin.
 
 ### Feedback ###
 

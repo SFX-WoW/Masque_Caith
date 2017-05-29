@@ -1,15 +1,15 @@
 ## Interface: 70200
 ## Title: Masque: |cffff8000Caith|r
-## Version: @project-version@
+## Version: 7.2.1
 ## Author: StormFX
+## Dependencies: Masque
 ## Notes: Caith skins for Masque.
 ## Notes-deDE: Caith-Skin für Masque.
 ## Notes-esES: Skin Caith para Masque.
 ## Notes-esMX: Skin Caith para Masque.
 ## Notes-itIT: Skin Caith per Masque.
 ## Notes-zhTW: Masque的Caith皮膚。
-## Dependencies: Masque
-## X-Website: http://www.wowace.com/projects/masque_caith
+## X-Website: http://www.wowace.com/projects/masque-caith
 ## X-Category: Interface Enhancements
 ## X-Credits: Zeal, Caith
 ## X-WoWI-ID: 8869

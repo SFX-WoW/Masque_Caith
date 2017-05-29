@@ -1,3 +1,9 @@
+### 7.2.1 ###
+
+- Masque version update.
+- Update ReadMe.
+- Update locales.
+
 ### 7.2.0 ###
 
 - ToC to 70200.

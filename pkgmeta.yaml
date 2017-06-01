@@ -13,6 +13,6 @@ ignore:
   - .gitattributes
   - _docs\
   - RELEASE.md
-  
+
 tools-used:
   - libstub

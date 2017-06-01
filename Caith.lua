@@ -38,6 +38,7 @@ MSQ:AddSkin("Caith", {
 	Cooldown = {
 		Width = 36,
 		Height = 36,
+		Color = {0, 0, 0, 0.7},
 	},
 	ChargeCooldown = {
 		Width = 36,
@@ -61,14 +62,15 @@ MSQ:AddSkin("Caith", {
 	Checked = {
 		Width = 42,
 		Height = 42,
-		BlendMode = "ADD",
-		Color = {0, 0.8, 1, 0.5},
+		BlendMode = "BLEND",
+		Color = {0, 0.7, 0.9, 0.7},
 		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
 	},
 	Border = {
 		Width = 42,
 		Height = 42,
-		BlendMode = "ADD",
+		BlendMode = "BLEND",
+		Color = {0, 1, 0, 0.5},
 		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
 	},
 	Gloss = {

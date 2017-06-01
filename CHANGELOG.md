@@ -1,7 +1,7 @@
 ### 7.2.1 ###
 
-- _Caith: No Shadow_ renamed to _Caith - No Shadow_.
-- Masque version update.
+- Add support for Equipped and Cooldown colors.
+- Update Masque_Version.
 - Update ReadMe.
 - Update locales.
 

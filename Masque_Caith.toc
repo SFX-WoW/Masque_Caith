@@ -1,6 +1,6 @@
-## Interface: 70300
+## Interface: 80000
 ## Title: Masque: |cffff8000Caith|r
-## Version: 7.3.0
+## Version: 8.0.0
 ## Author: StormFX
 ## Dependencies: Masque
 ## Notes: Caith skins for Masque.
@@ -8,6 +8,7 @@
 ## Notes-esES: Skin Caith para Masque.
 ## Notes-esMX: Skin Caith para Masque.
 ## Notes-itIT: Skin Caith per Masque.
+## Notes-ruRU: Скин Caith для Masque.
 ## Notes-zhTW: Masque的Caith皮膚。
 ## X-Website: https://www.wowace.com/projects/masque-caith
 ## X-Category: Interface Enhancements

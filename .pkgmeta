@@ -6,13 +6,10 @@ required-dependencies:
 enable-nolib-creation: no
 
 manual-changelog:
-  filename: RELEASE.md
+  filename: CHANGELOG.md
   markup-type: markdown
 
 ignore:
   - .gitattributes
-  - _docs\
-  - RELEASE.md
-
-tools-used:
-  - libstub
+  - .gitignore
+  - .docs\

@@ -15,4 +15,5 @@
 ## X-Credits: Zeal, Caith
 ## X-WoWI-ID: 8869
 
-Caith.lua
+# Skins
+Skins.lua

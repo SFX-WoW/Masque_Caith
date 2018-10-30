@@ -1,6 +1,6 @@
 ## Interface: 80000
 ## Title: Masque: |cffff8000Caith|r
-## Version: 8.0.0
+## Version: @project-version@
 ## Author: StormFX
 ## Dependencies: Masque
 ## Notes: Caith skins for Masque.

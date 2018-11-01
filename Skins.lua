@@ -54,6 +54,7 @@ MSQ:AddSkin("Caith", {
 	Icon = {
 		Width = 36,
 		Height = 36,
+		TexCoords = {0.02, 0.98, 0.02, 0.98},
 	},
 	Flash = {
 		Width = 42,
@@ -132,13 +133,13 @@ MSQ:AddSkin("Caith", {
 		OffsetY = -3,
 	},
 	Cooldown = {
-		Width = 36,
-		Height = 36,
+		Width = 32,
+		Height = 32,
 		Color = {0, 0, 0, 0.7},
 	},
 	ChargeCooldown = {
-		Width = 36,
-		Height = 36,
+		Width = 31,
+		Height = 31,
 	},
 	Shine = {
 		Width = 32,

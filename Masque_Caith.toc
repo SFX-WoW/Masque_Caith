@@ -1,5 +1,5 @@
 ## Interface: 80000
-## Title: Masque: |cffff8000Caith|r
+## Title: Masque: Caith
 ## Version: @project-version@
 ## Author: StormFX
 ## Dependencies: Masque

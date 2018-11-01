@@ -3,23 +3,49 @@
 	This file is part of 'Masque: Caith', an add-on for World of Warcraft. For license information,
 	please see the included License.txt file.
 
-	* File...: Caith.lua
+	* File...: Skins.lua
 	* Author.: StormFX
 
+	Caith Skins
 ]]
 
-local MSQ = LibStub("Masque", true)
+-- GLOBALS: GetAddOnMetadata, LibStub
+
+local MSQ = LibStub and LibStub("Masque", true)
 if not MSQ then return end
 
-local AddOn, _ = ...
-local Version = GetAddOnMetadata(AddOn, "Version")
+----------------------------------------
+-- Locals
+----------------------------------------
 
+local AddOn, Core = ...
+
+-- Locale
+local L = Core.Locale
+
+-- Skin Info
+local Version = GetAddOnMetadata(AddOn, "Version")
+local Authors = "StormFX"
+local Websites = {
+	"https://github.com/stormfx/masque_caith",
+	"https://www.wowace.com/projects/masque-caith",
+	"https://www.curseforge.com/wow/addons/masque-caith",
+	"https://www.wowinterface.com/downloads/info8869",
+}
+
+----------------------------------------
 -- Caith
+----------------------------------------
+
 MSQ:AddSkin("Caith", {
-	Author = "StormFX",
-	Version = Version,
 	Shape = "Square",
-	Masque_Version = 70200,
+	Group = "Caith",
+	Order = 1,
+	Version = Version,
+	Authors = Authors,
+	Websites = Websites,
+	Description = L["A larger version of Apathy inspired by Caith UI."],
+	Masque_Version = 80000,
 	Backdrop = {
 		Width = 42,
 		Height = 42,
@@ -34,15 +60,6 @@ MSQ:AddSkin("Caith", {
 		Height = 42,
 		Color = {1, 0, 0, 0.3},
 		Texture = [[Interface\AddOns\Masque_Caith\Textures\Overlay]],
-	},
-	Cooldown = {
-		Width = 36,
-		Height = 36,
-		Color = {0, 0, 0, 0.7},
-	},
-	ChargeCooldown = {
-		Width = 36,
-		Height = 36,
 	},
 	Pushed = {
 		Width = 42,
@@ -114,6 +131,15 @@ MSQ:AddSkin("Caith", {
 		Height = 10,
 		OffsetY = -3,
 	},
+	Cooldown = {
+		Width = 36,
+		Height = 36,
+		Color = {0, 0, 0, 0.7},
+	},
+	ChargeCooldown = {
+		Width = 36,
+		Height = 36,
+	},
 	Shine = {
 		Width = 32,
 		Height = 32,
@@ -122,9 +148,15 @@ MSQ:AddSkin("Caith", {
 	},
 }, true)
 
+----------------------------------------
 -- Caith - No Shadow
+----------------------------------------
+
 MSQ:AddSkin("Caith - No Shadow", {
+	Title = "No Shadow",
+	Order = 2,
 	Template = "Caith",
+	Description = L["An alternate version of Caith without a shadow."],
 	Normal = {
 		Width = 42,
 		Height = 42,

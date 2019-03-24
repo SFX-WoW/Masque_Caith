@@ -138,8 +138,8 @@ MSQ:AddSkin("Caith", {
 		Color = {0, 0, 0, 0.7},
 	},
 	ChargeCooldown = {
-		Width = 31,
-		Height = 31,
+		Width = 32,
+		Height = 32,
 	},
 	Shine = {
 		Width = 32,

@@ -6,7 +6,7 @@
 	* File...: Skins.lua
 	* Author.: StormFX
 
-	Caith Skins
+	Caith Skin
 ]]
 
 -- GLOBALS: GetAddOnMetadata, LibStub
@@ -14,18 +14,17 @@
 local MSQ = LibStub and LibStub("Masque", true)
 if not MSQ then return end
 
+local AddOn, Core = ...
+
 ----------------------------------------
 -- Locals
-----------------------------------------
-
-local AddOn, Core = ...
+---
 
 -- Locale
 local L = Core.Locale
 
 -- Skin Info
 local Version = GetAddOnMetadata(AddOn, "Version")
-local Authors = "StormFX"
 local Websites = {
 	"https://github.com/stormfx/masque_caith",
 	"https://www.wowace.com/projects/masque-caith",
@@ -35,133 +34,197 @@ local Websites = {
 
 ----------------------------------------
 -- Caith
-----------------------------------------
+---
 
 MSQ:AddSkin("Caith", {
 	Shape = "Square",
-	Group = "Caith",
-	Order = 1,
-	Version = Version,
-	Authors = Authors,
-	Websites = Websites,
+	Masque_Version = 80100,
+
+	-- Info
 	Description = L["A larger version of Apathy inspired by Caith UI."],
-	Masque_Version = 80000,
+	Version = Version,
+	Author = "StormFX",
+	Websites = Websites,
+
+	-- Skin
 	Backdrop = {
-		Width = 42,
-		Height = 42,
-		Texture = [[Interface\AddOns\Masque_Caith\Textures\Backdrop]],
+		Color = {0, 0, 0, 0.5},
+		Width = 32,
+		Height = 32,
+		UseColor = true,
 	},
 	Icon = {
+		TexCoords = {0.02, 0.98, 0.02, 0.98},
 		Width = 36,
 		Height = 36,
-		TexCoords = {0.02, 0.98, 0.02, 0.98},
 	},
-	Flash = {
-		Width = 42,
-		Height = 42,
-		Color = {1, 0, 0, 0.3},
-		Texture = [[Interface\AddOns\Masque_Caith\Textures\Overlay]],
-	},
-	Pushed = {
-		Width = 42,
-		Height = 42,
+	Shadow = {
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Shadow]],
 		Color = {0, 0, 0, 0.5},
-		Texture = [[Interface\AddOns\Masque_Caith\Textures\Overlay]],
+		Width = 42,
+		Height = 42,
 	},
 	Normal = {
-		Width = 42,
-		Height = 42,
-		Color = {0.3, 0.3, 0.3, 1},
 		Texture = [[Interface\AddOns\Masque_Caith\Textures\Normal]],
-	},
-	Disabled = {
-		Hide = true,
-	},
-	Checked = {
+		Color = {0.3, 0.3, 0.3, 1},
+		--EmptyColor = {0.3, 0.3, 0.3, 0.3},
 		Width = 42,
 		Height = 42,
-		BlendMode = "BLEND",
-		Color = {0, 0.7, 0.9, 0.7},
-		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
 	},
-	Border = {
-		Width = 42,
-		Height = 42,
-		BlendMode = "BLEND",
-		Color = {0, 1, 0, 0.5},
-		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
+	--Disabled = {Hide = true,},
+	Pushed = {
+		Color = {0, 0, 0, 0.5},
+		DrawLayer = "BORDER",
+		DrawLevel = 1,
+		Width = 36,
+		Height = 36,
+		UseColor = true,
 	},
-	Gloss = {
-		Width = 42,
-		Height = 42,
-		Texture = [[Interface\AddOns\Masque_Caith\Textures\Gloss]],
-	},
-	AutoCastable = {
-		Width = 64,
-		Height = 64,
-		OffsetX = 0.5,
-		OffsetY = -0.5,
-		Texture = [[Interface\Buttons\UI-AutoCastableOverlay]],
-	},
-	Highlight = {
-		Width = 42,
-		Height = 42,
+	Flash = {
+		Color = {1, 0, 0, 0.4},
 		BlendMode = "ADD",
-		Color = {1, 1, 1, 0.3},
-		Texture = [[Interface\AddOns\Masque_Caith\Textures\Highlight]],
-	},
-	Name = {
-		Width = 42,
-		Height = 10,
-		OffsetY = 2,
+		DrawLayer = "BORDER",
+		DrawLevel = 0,
+		Width = 36,
+		Height = 36,
+		UseColor = true,
 	},
 	Count = {
 		Width = 42,
 		Height = 10,
-		OffsetX = -3,
-		OffsetY = 6,
+		OffsetX = -2,
+		OffsetY = 3,
 	},
 	HotKey = {
 		Width = 42,
 		Height = 10,
-		OffsetX = -8,
-		OffsetY = -5,
+		OffsetX = -2,
+		OffsetY = -4,
 	},
 	Duration = {
 		Width = 42,
 		Height = 10,
 		OffsetY = -3,
 	},
+	Checked = {
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
+		Color = {0, 0.7, 0.9, 0.7},
+		BlendMode = "ADD",
+		Width = 42,
+		Height = 42,
+	},
+	Border = {
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
+		BlendMode = "ADD",
+		Width = 42,
+		Height = 42,
+		Aura = {
+			Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
+			Width = 42,
+			Height = 42,
+		},
+		Debuff = {
+			Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
+			Width = 42,
+			Height = 42,
+		},
+		Enchant = {
+			Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
+			Color = {0.6, 0.2, 0.9, 1},
+			Width = 42,
+			Height = 42,
+		},
+		Item = {
+			Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
+			Width = 42,
+			Height = 42,
+		},
+	},
+	IconBorder = {
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
+		Width = 42,
+		Height = 42,
+	},
+	SlotHighlight = {
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
+		Color = {0, 0.7, 0.9, 0.7},
+		BlendMode = "ADD",
+		Width = 42,
+		Height = 42,
+	},
+	Gloss = {
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Gloss]],
+		Color = {1, 1, 1, 0.5},
+		Width = 42,
+		Height = 42,
+	},
+	IconOverlay = {
+		Width = 36,
+		Height = 36,
+	},
+	NewAction = {
+		BlendMode = "ADD",
+		DrawLayer = "BORDER",
+		DrawLevel = 0,
+		Width = 44,
+		Height = 44,
+	},
+	SpellHighlight = {
+		BlendMode = "ADD",
+		DrawLayer = "BORDER",
+		DrawLevel = 0,
+		Width = 44,
+		Height = 44,
+	},
+	AutoCastable = {
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Indicator]],
+		Color = {1, 1, 0, 1},
+		Width = 42,
+		Height = 42,
+	},
+	SearchOverlay = {
+		Width = 36,
+		Height = 36,
+		Color = {0, 0, 0, 0.7},
+		Point = "CENTER",
+	},
+	ContextOverlay = {
+		Color = {0, 0, 0, 0.7},
+		Width = 36,
+		Height = 36,
+		Point = "CENTER",
+	},
+	NewItem = {
+		DrawLayer = "BORDER",
+		DrawLevel = 0,
+		Width = 34,
+		Height = 34,
+	},
+	Highlight = {
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
+		Color = {1, 1, 1, 0.3},
+		BlendMode = "ADD",
+		Width = 42,
+		Height = 42,
+	},
+	Name = {
+		Width = 42,
+		Height = 10,
+		OffsetY = 2,
+	},
+	AutoCastShine = {
+		Width = 35,
+		Height = 35,
+		OffsetX = 1,
+		OffsetY = -1,
+	},
 	Cooldown = {
+		Color = {0, 0, 0, 0.7},
 		Width = 32,
 		Height = 32,
-		Color = {0, 0, 0, 0.7},
 	},
 	ChargeCooldown = {
 		Width = 32,
 		Height = 32,
-	},
-	Shine = {
-		Width = 32,
-		Height = 32,
-		OffsetX = 1,
-		OffsetY = -1,
-	},
-}, true)
-
-----------------------------------------
--- Caith - No Shadow
-----------------------------------------
-
-MSQ:AddSkin("Caith - No Shadow", {
-	Title = "No Shadow",
-	Order = 2,
-	Template = "Caith",
-	Description = L["An alternate version of Caith without a shadow."],
-	Normal = {
-		Width = 42,
-		Height = 42,
-		Color = {0.3, 0.3, 0.3, 1},
-		Texture = [[Interface\AddOns\Masque_Caith\Textures\Normal_NS]],
 	},
 }, true)

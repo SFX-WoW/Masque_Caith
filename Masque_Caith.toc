@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 80100
 ## Title: Masque: Caith
 ## Version: @project-version@
 ## Author: StormFX

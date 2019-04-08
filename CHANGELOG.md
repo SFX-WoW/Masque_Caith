@@ -12,3 +12,11 @@
 - Removed the "Caith - No Shadow" skin since it's now redundant.
 - Updated the `Masque_Version`.
 - Updated the ToC to 80100.
+
+### Feedback
+
+For bug reports and suggestions, please use the [issue tracker](https://github.com/StormFX/Masque_Caith/issues "Issue Tracker") on GitHub.
+
+### Localization
+
+To help translate _Masque: Caith_, please use the [localization system](https://www.wowace.com/projects/masque-caith/localization "Localization System") on WoW Ace or [contribute directly](https://github.com/StormFX/Masque_Caith "Contribute") on GitHub.

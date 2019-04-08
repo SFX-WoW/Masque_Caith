@@ -1,9 +1,3 @@
-## 8.0.1
-
-- Updated the skin info for Masque UI changes.
-- Updated the `Masque_Version`.
-- Updated the Locales.
-
 ## 8.0.0
 
 - Updated the ToC to 80000.

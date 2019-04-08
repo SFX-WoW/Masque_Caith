@@ -8,13 +8,13 @@
 
 ]]
 
--- GLOBALS: GetLocale
+-- GLOBALS: GetLocale, setmetatable
 
 local _, Core = ...
 
 ----------------------------------------
 -- Locales
-----------------------------------------
+---
 
 local L = {}
 
@@ -29,7 +29,6 @@ local Locale = GetLocale()
 
 if Locale == "enGB" or Locale == "enUS" then
 	--L["A larger version of Apathy inspired by Caith UI."] = "A larger version of Apathy inspired by Caith UI."
-	--L["An alternate version of Caith without a shadow."] = "An alternate version of Caith without a shadow."
 	return
 --elseif Locale == "deDE" then
 --elseif Locale == "esES" or Locale == "esMX" then

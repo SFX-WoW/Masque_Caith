@@ -35,7 +35,7 @@ Install the package through your preferred add-on manager. You can also install 
 
 ## Feedback
 
-For bug reports and suggestions, please use the [issue system](https://github.com/StormFX/Masque_Caith/issues "Report an Issue") on GitHub.
+For bug reports and suggestions, please use the [issue tracker](https://github.com/StormFX/Masque_Caith/issues "Report an Issue") on GitHub.
 
 ## Localization
 

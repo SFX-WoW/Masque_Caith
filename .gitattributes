@@ -1,5 +1,3 @@
-# Keep some files from being included in packages.
-
 # Git
 .gitattributes export-ignore
 .gitignore export-ignore

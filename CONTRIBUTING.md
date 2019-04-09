@@ -25,7 +25,7 @@ Pull requests are only accepted for localization updates. All other submissions 
 - Commits must be simple and concise, preceded by a dash and a space. Eg:
   - `- Update enUS.`
 - When updating a localization file, only edit what needs to be edited. All edits will be checked locally and validated with LuaCheck.
-- Consider updating the [localization system] on WoW Ace. That where all translations are pulled from.
+- Consider updating the [localization system] on WoW Ace since that's where all translations are pulled from.
 
-[issue tracker]: https://github.com/StormFX/Masque_Caith/issues
-[localization system]: https://www.wowace.com/projects/masque-caith/localization
+[issue tracker]: https://github.com/StormFX/Masque_Caith/issues (Report an Issue)
+[localization system]: https://www.wowace.com/projects/masque-caith/localization (Translate on WoW Ace)

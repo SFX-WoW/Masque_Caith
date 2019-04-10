@@ -92,14 +92,14 @@ MSQ:AddSkin("Caith", {
 	Count = {
 		Width = 42,
 		Height = 10,
-		OffsetX = -2,
+		OffsetX = -1,
 		OffsetY = 3,
 	},
 	HotKey = {
 		Width = 42,
 		Height = 10,
-		OffsetX = -2,
-		OffsetY = -4,
+		OffsetX = -1,
+		OffsetY = -3,
 	},
 	Duration = {
 		Width = 42,
@@ -142,8 +142,8 @@ MSQ:AddSkin("Caith", {
 	},
 	IconBorder = {
 		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
-		Width = 42,
-		Height = 42,
+		Width = 36,
+		Height = 36,
 	},
 	SlotHighlight = {
 		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],

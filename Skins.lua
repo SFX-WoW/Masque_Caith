@@ -163,18 +163,18 @@ MSQ:AddSkin("Caith", {
 		Height = 36,
 	},
 	NewAction = {
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Glow]],
+		Color = {1, 1, 0.6, 0.8},
 		BlendMode = "ADD",
-		DrawLayer = "BORDER",
-		DrawLevel = 0,
-		Width = 44,
-		Height = 44,
+		Width = 42,
+		Height = 42,
 	},
 	SpellHighlight = {
+		Texture = [[Interface\AddOns\Masque_Caith\Textures\Glow]],
+		Color = {1, 1, 0.6, 0.8},
 		BlendMode = "ADD",
-		DrawLayer = "BORDER",
-		DrawLevel = 0,
-		Width = 44,
-		Height = 44,
+		Width = 42,
+		Height = 42,
 	},
 	AutoCastable = {
 		Texture = [[Interface\AddOns\Masque_Caith\Textures\Indicator]],
@@ -183,9 +183,9 @@ MSQ:AddSkin("Caith", {
 		Height = 42,
 	},
 	SearchOverlay = {
+		Color = {0, 0, 0, 0.7},
 		Width = 36,
 		Height = 36,
-		Color = {0, 0, 0, 0.7},
 		Point = "CENTER",
 	},
 	ContextOverlay = {

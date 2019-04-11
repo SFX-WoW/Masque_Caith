@@ -1,5 +1,6 @@
 ## Interface: 80100
 ## Title: Masque: Caith
+
 ## Notes: Caith skin for Masque.
 ## Notes-deDE: Caith-Skin für Masque.
 ## Notes-esES: Skin Caith para Masque.
@@ -7,6 +8,7 @@
 ## Notes-itIT: Skin Caith per Masque.
 ## Notes-ruRU: Скин Caith для Masque.
 ## Notes-zhTW: Masque的Caith皮膚。
+
 ## Version: @project-version@
 ## Author: StormFX
 ## Dependencies: Masque

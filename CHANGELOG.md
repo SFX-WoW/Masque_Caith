@@ -1,7 +1,8 @@
-## 8.1.2-Alpha
+## 8.1.3-Alpha
 
 - Updated the skin info for _Masque_'s UI changes.
 - Added a `Shadow` texture.
+- Added a `NewAction` texture.
 - Added an `AutoCastable` texture.
 - Added support for new regions added in _Masque_.
 - The following regions now use a color instead of a texture:

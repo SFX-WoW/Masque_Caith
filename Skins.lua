@@ -67,7 +67,6 @@ MSQ:AddSkin("Caith", {
 	Normal = {
 		Texture = [[Interface\AddOns\Masque_Caith\Textures\Normal]],
 		Color = {0.3, 0.3, 0.3, 1},
-		--EmptyColor = {0.3, 0.3, 0.3, 0.3},
 		Width = 42,
 		Height = 42,
 	},
@@ -142,8 +141,8 @@ MSQ:AddSkin("Caith", {
 	},
 	IconBorder = {
 		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],
-		Width = 36,
-		Height = 36,
+		Width = 42,
+		Height = 42,
 	},
 	SlotHighlight = {
 		Texture = [[Interface\AddOns\Masque_Caith\Textures\Border]],

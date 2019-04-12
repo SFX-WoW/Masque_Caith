@@ -38,5 +38,6 @@ if Locale == "enGB" or Locale == "enUS" then
 --elseif Locale == "ptBR" then
 --elseif Locale == "ruRU" then
 --elseif Locale == "zhCN" then
---elseif Locale == "zhTW" then
+elseif Locale == "zhTW" then
+	L["A larger version of Apathy inspired by Caith UI."] = "一個更大版本的Apathy，啟發自Caith UI。"
 end

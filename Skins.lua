@@ -7,6 +7,7 @@
 	* Author.: StormFX
 
 	Caith Skin
+
 ]]
 
 -- GLOBALS: GetAddOnMetadata, LibStub
@@ -186,12 +187,14 @@ MSQ:AddSkin("Caith", {
 		Width = 36,
 		Height = 36,
 		Point = "CENTER",
+		UseColor = true,
 	},
 	ContextOverlay = {
 		Color = {0, 0, 0, 0.7},
 		Width = 36,
 		Height = 36,
 		Point = "CENTER",
+		UseColor = true,
 	},
 	NewItem = {
 		DrawLayer = "BORDER",

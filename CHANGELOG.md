@@ -1,4 +1,6 @@
-## 8.1.4-Alpha
+## 8.1.5-Beta
+
+_**Warning:** This version requires the latest pre-release of [Masque](https://github.com/StormFX/Masque/releases)._
 
 - Updated the skin info for _Masque_'s UI changes.
 - Added a `Shadow` texture.
@@ -10,7 +12,7 @@
   - `Flash`
   - `Pushed`
 - Reduced the default intensity of the `Gloss` region.
-- Removed the "Caith - No Shadow" skin since it's no longer necessary.
+- Removed the "Caith - No Shadow" skin since it's redundant.
 - Updated the `Masque_Version`.
 - Updated the ToC to 80100.
 

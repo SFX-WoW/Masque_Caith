@@ -1,4 +1,4 @@
-## 8.1.5-Beta
+## 8.2.0-Beta
 
 _**Warning:** This version requires the latest pre-release of [Masque](https://github.com/StormFX/Masque/releases)._
 

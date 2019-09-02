@@ -3,6 +3,7 @@
 _**Warning:** This version requires the latest pre-release of [Masque](https://github.com/StormFX/Masque/releases)._
 
 - Updated the skin info for _Masque_'s UI changes.
+- Added _Classic_ support.
 - Added a `Shadow` texture.
 - Added a `NewAction` texture.
 - Added an `AutoCastable` texture.

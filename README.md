@@ -14,7 +14,7 @@ _**Note:** You must have [Masque] installed to use this skin._
 
 Install the package through your preferred add-on manager. You can also install the add-on manually using the following steps:
 
-1. Download the desired package from one of the following sites:
+1. Download the package from one of the following sites:
     - [GitHub]
     - [WoW Ace]
     - [CurseForge]

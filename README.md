@@ -56,9 +56,9 @@ To help translate this add-on, please use the [localization system] on WoW Ace o
 [Skin List]: https://github.com/StormFX/Masque/wiki/Skin-List (Masque Skin List)
 [Masque on Facebook]: https://www.facebook.com/masqueui (Masque on Facebook)
 
-[Issue Tracker]: https://github.com/StormFX/Masque_Caith/issues (Report an Issue)
-[Localization System]: https://www.wowace.com/projects/masque-caith/localization (Translate on WoW Ace)
-[Contribute Directly]: https://github.com/StormFX/Masque_Caith (Translate on GitHub)
+[issue tracker]: https://github.com/StormFX/Masque_Caith/issues (Report an Issue)
+[localization system]: https://www.wowace.com/projects/masque-caith/localization (Translate on WoW Ace)
+[contribute directly]: https://github.com/StormFX/Masque_Caith (Translate on GitHub)
 
 [Travis]: https://travis-ci.org/StormFX/Masque_Caith (Latest Build)
 [Latest]: https://github.com/StormFX/Masque_Caith/releases (Latest Release)

@@ -40,7 +40,7 @@ For bug reports and suggestions, please use the [issue tracker] on GitHub.
 
 ## Localization
 
-To help translate _Caith_, please use the [localization system] on WoW Ace or [contribute directly] on GitHub.
+To help translate this add-on, please use the [localization system] on WoW Ace or [contribute directly] on GitHub.
 
 [Links]: #
 
@@ -68,8 +68,8 @@ To help translate _Caith_, please use the [localization system] on WoW Ace or [c
 
 [Images]: #
 
-[Badge-Travis]: https://img.shields.io/travis/StormFX/Masque_Caith/master.svg?label=Build&style=flat-square
+[Badge-Travis]: https://img.shields.io/travis/StormFX/Masque_Caith/master?label=Build&style=flat-square
 [Badge-Latest]: https://img.shields.io/github/v/release/StormFX/Masque_Caith?include_prereleases&label=Latest&style=flat-square
-[Badge-Discord]: https://img.shields.io/badge/Discord-StormFX-7289da.svg?style=flat-square
-[Badge-Patreon]: https://img.shields.io/badge/Patreon-Donate-f96854.svg?style=flat-square
-[Badge-PayPal]: https://img.shields.io/badge/PayPal-Donate-009CDE.svg?style=flat-square
+[Badge-Discord]: https://img.shields.io/badge/Discord-StormFX-7289da?style=flat-square
+[Badge-Patreon]: https://img.shields.io/badge/Patreon-Donate-f96854?style=flat-square
+[Badge-PayPal]: https://img.shields.io/badge/PayPal-Donate-009CDE?style=flat-square

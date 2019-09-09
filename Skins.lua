@@ -39,7 +39,7 @@ local Websites = {
 
 MSQ:AddSkin("Caith", {
 	Shape = "Square",
-	Masque_Version = 80100,
+	Masque_Version = 80200,
 
 	-- Info
 	Description = L["A larger version of Apathy inspired by Caith UI."],

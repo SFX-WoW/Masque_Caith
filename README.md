@@ -40,7 +40,7 @@ For bug reports and suggestions, please use the [issue tracker] on GitHub.
 
 ## Localization
 
-To help translate _Caith_, please use the [localization system] on WoW Ace or [contribute directly] on GitHub.
+To help translate this add-on, please use the [localization system] on WoW Ace or [contribute directly] on GitHub.
 
 [Links]: #
 
@@ -56,9 +56,9 @@ To help translate _Caith_, please use the [localization system] on WoW Ace or [c
 [Skin List]: https://github.com/StormFX/Masque/wiki/Skin-List (Masque Skin List)
 [Masque on Facebook]: https://www.facebook.com/masqueui (Masque on Facebook)
 
-[Issue Tracker]: https://github.com/StormFX/Masque_Caith/issues (Report an Issue)
-[Localization System]: https://www.wowace.com/projects/masque-caith/localization (Translate on WoW Ace)
-[Contribute Directly]: https://github.com/StormFX/Masque_Caith (Translate on GitHub)
+[issue tracker]: https://github.com/StormFX/Masque_Caith/issues (Report an Issue)
+[localization system]: https://www.wowace.com/projects/masque-caith/localization (Translate on WoW Ace)
+[contribute directly]: https://github.com/StormFX/Masque_Caith (Translate on GitHub)
 
 [Travis]: https://travis-ci.org/StormFX/Masque_Caith (Latest Build)
 [Latest]: https://github.com/StormFX/Masque_Caith/releases (Latest Release)
@@ -68,8 +68,8 @@ To help translate _Caith_, please use the [localization system] on WoW Ace or [c
 
 [Images]: #
 
-[Badge-Travis]: https://img.shields.io/travis/StormFX/Masque_Caith/master.svg?label=Build&style=flat-square
+[Badge-Travis]: https://img.shields.io/travis/StormFX/Masque_Caith/master?label=Build&style=flat-square
 [Badge-Latest]: https://img.shields.io/github/v/release/StormFX/Masque_Caith?include_prereleases&label=Latest&style=flat-square
-[Badge-Discord]: https://img.shields.io/badge/Discord-StormFX-7289da.svg?style=flat-square
-[Badge-Patreon]: https://img.shields.io/badge/Patreon-Donate-f96854.svg?style=flat-square
-[Badge-PayPal]: https://img.shields.io/badge/PayPal-Donate-009CDE.svg?style=flat-square
+[Badge-Discord]: https://img.shields.io/badge/Discord-StormFX-7289da?style=flat-square
+[Badge-Patreon]: https://img.shields.io/badge/Patreon-Donate-f96854?style=flat-square
+[Badge-PayPal]: https://img.shields.io/badge/PayPal-Donate-009CDE?style=flat-square

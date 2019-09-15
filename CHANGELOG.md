@@ -16,7 +16,7 @@
   - `Flash`
   - `Pushed`
 - Reduced the default intensity of the `Gloss` region.
-- Removed the "Caith - No Shadow" skin since it's redundant.
+- Removed the "No Shadow" skin since it's redundant.
 - Updated the `Masque_Version`.
 - Updated the ToC to 80200.
 

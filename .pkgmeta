@@ -1,18 +1,21 @@
 package-as: Masque_Caith
 
 required-dependencies:
+  - libstub
   - masque
 
-enable-nolib-creation: no
+ignore:
+  - .github
+  - .gitattributes
+  - .gitignore
+  - .luacheckrc
+  - .pkgmeta
+  - CHANGELOG.md
+  - LICENSE.txt
+  - README.md
 
 manual-changelog:
   filename: CHANGELOG.md
   markup-type: markdown
 
-ignore:
-  - .docs\
-  - .gitattributes
-  - .gitignore
-  - .luacheckrc
-  - .travis.yml
-  - CONTRIBUTING.md
+wowi-archive-previous: no

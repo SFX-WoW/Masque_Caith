@@ -1,7 +1,7 @@
 --[[
 
-	This file is part of 'Masque: Caith', an add-on for World of Warcraft. For license information,
-	please see the included License.txt file or visit https://github.com/StormFX/Masque_Caith.
+	This file is part of 'Masque: Caith', an add-on for World of Warcraft. For bug reports,
+	suggestions and license information, please visit https://github.com/SFX-WoW/Masque_Caith.
 
 	* File...: Skins.lua
 	* Author.: StormFX
@@ -27,7 +27,7 @@ local L = Core.Locale
 -- Skin Info
 local Version = GetAddOnMetadata(AddOn, "Version")
 local Websites = {
-	"https://github.com/StormFX/Masque_Caith",
+	"https://github.com/SFX-WoW/Masque_Caith",
 	"https://www.wowace.com/projects/masque-caith",
 	"https://www.curseforge.com/wow/addons/masque-caith",
 	"https://www.wowinterface.com/downloads/info8869",

@@ -33,7 +33,8 @@ if Locale == "enGB" or Locale == "enUS" then
 	return
 --elseif Locale == "deDE" then
 --elseif Locale == "esES" or Locale == "esMX" then
---elseif Locale == "frFR" then
+elseif Locale == "frFR" then
+	L["A larger version of Apathy inspired by Caith UI."] = "Une version plus grande de Apathy inspirée par Caith UI."
 --elseif Locale == "itIT" then
 --elseif Locale == "koKR" then
 --elseif Locale == "ptBR" then

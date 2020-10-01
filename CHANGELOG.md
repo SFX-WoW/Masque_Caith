@@ -1,6 +1,8 @@
-## 8.3.0
+## 8.3.1
 
-- Updated the _Classic_ ToC to `11305`.
-- Updated the _Retail_ ToC to `80300`.
-- Updated frFR. (Peamouth44)
-- Updated itIT. (Faniel80)
+- Added support for the following regions:
+  - `JunkIcon` - Decreased the size.
+  - `QuestBorder` - Added a new texture.
+  - `UpgradeIcon` - Decreased the size and updated the draw level.
+- Updated the glow texture.
+- `MASQUE_VERSION` increased to `90000`.

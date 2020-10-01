@@ -39,7 +39,7 @@ local Websites = {
 
 MSQ:AddSkin("Caith", {
 	Shape = "Square",
-	Masque_Version = 80200,
+	Masque_Version = 90000,
 
 	-- Info
 	Description = L["A larger version of Apathy inspired by Caith UI."],
@@ -143,7 +143,7 @@ MSQ:AddSkin("Caith", {
 		-- UseStates = nil,
 		-- SetAllPoints = nil,
 	},
-	-- Disabled = {Hide = true},
+	-- Disabled = Default.Disabled,
 	Pushed = {
 		-- Texture = [[Interface\Buttons\UI-Quickslot-Depress]],
 		-- TexCoords = {0, 1, 0, 1},

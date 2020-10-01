@@ -363,7 +363,7 @@ MSQ:AddSkin("Caith", {
 		-- Color = {1, 1, 1, 1},
 		BlendMode = "BLEND",
 		DrawLayer = "OVERLAY",
-		DrawLevel = 1,
+		DrawLevel = 2,
 		Width = 15,
 		Height = 16,
 		Point = "TOPLEFT",

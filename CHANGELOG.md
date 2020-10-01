@@ -1,4 +1,4 @@
-## 8.3.1
+## 8.3.2
 
 - Added support for the following regions:
   - `JunkIcon` - Decreased the size.

@@ -1,7 +1,6 @@
 package-as: Masque_Caith
 
 required-dependencies:
-  - libstub
   - masque
 
 ignore:

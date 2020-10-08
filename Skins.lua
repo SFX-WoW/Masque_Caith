@@ -77,7 +77,7 @@ MSQ:AddSkin("Caith", {
 			RelPoint = "CENTER",
 			OffsetX = 0,
 			OffsetY = 0,
-			-- UseColor = true,
+			-- UseColor = nil,
 			-- SetAllPoints = nil,
 		},
 		Pet = {
@@ -93,7 +93,7 @@ MSQ:AddSkin("Caith", {
 			RelPoint = "CENTER",
 			OffsetX = 0,
 			OffsetY = 0,
-			-- UseColor = true,
+			-- UseColor = nil,
 			-- SetAllPoints = nil,
 		},
 	},

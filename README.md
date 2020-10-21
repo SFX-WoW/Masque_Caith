@@ -67,7 +67,7 @@ To help translate this add-on, use the [localization system] on WoW Ace. Alterna
 [Build]: https://github.com/SFX-WoW/Masque_Caith/actions?query=workflow%3ARelease (Build Status)
 [Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
 [Discord]: https://discord.gg/DDVqkd6 (Join the Discord)
-[Twitter]: https://twitter.com/_stormfx (Follow on Twitter)
+[Twitter]: https://twitter.com/stormfxi (Follow on Twitter)
 [Facebook]: https://www.facebook.com/stormfxi (Follow on Facebook)
 [Sponsor]: https://github.com/sponsors/StormFX (Sponsor on GitHub)
 [PayPal]: https://www.paypal.me/stormfxi (Donate via PayPal)

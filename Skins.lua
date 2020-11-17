@@ -505,4 +505,4 @@ MSQ:AddSkin("Caith", {
 		-- OffsetY = 0,
 		SetAllPoints = true,
 	},
-}, true)
+})

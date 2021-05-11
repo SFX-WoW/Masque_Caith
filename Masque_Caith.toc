@@ -1,11 +1,7 @@
-#@retail@
 ## Interface: 90005
-#@end-retail@
-#@non-retail@
-# ## Interface: 11306
-#@end-non-retail@
-## Title: Masque: Caith
+## Interface-Classic: 11307
 
+## Title: Masque: Caith
 ## Notes: Caith skin for Masque.
 ## Notes-deDE: Caith-Skin für Masque.
 ## Notes-esMX: Skin Caith para Masque.

@@ -23,6 +23,7 @@
 ## X-Category: Interface Enhancements
 ## X-Credits: Zeal, Caith
 ## X-Curse-Project-ID: 13594
+## X-Wago-ID: RXKqjoGy
 ## X-WoWI-ID: 8869
 
 # Locales

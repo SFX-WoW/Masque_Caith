@@ -1,4 +1,5 @@
-## 9.0.5
+## 9.0.6
 
-- Updated the `Interface` version for Classic to `11306`.
-- Updated the `Interface` version for Retail to `90005`.
+- Added support for _Burning Crusade Classic_.
+- Added support for Wago.io.
+- Updated the `Interface` version for _Classic_ to `11307`.

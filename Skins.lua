@@ -10,8 +10,6 @@
 
 ]]
 
--- GLOBALS: GetAddOnMetadata, LibStub
-
 local MSQ = LibStub and LibStub("Masque", true)
 if not MSQ then return end
 
@@ -180,7 +178,7 @@ MSQ:AddSkin("Caith", {
 	HotKey = {
 		JustifyH = "RIGHT",
 		JustifyV = "MIDDLE",
-		DrawLayer = "ARTWORK",
+		DrawLayer = "OVERLAY",
 		Width = 42,
 		Height = 10,
 		Point = "TOPRIGHT",
@@ -191,7 +189,7 @@ MSQ:AddSkin("Caith", {
 	Count = {
 		JustifyH = "RIGHT",
 		JustifyV = "MIDDLE",
-		DrawLayer = "ARTWORK",
+		DrawLayer = "OVERLAY",
 		Width = 42,
 		Height = 10,
 		Point = "BOTTOMRIGHT",
@@ -202,7 +200,7 @@ MSQ:AddSkin("Caith", {
 	Duration = {
 		JustifyH = "CENTER",
 		JustifyV = "MIDDLE",
-		DrawLayer = "ARTWORK",
+		DrawLayer = "OVERLAY",
 		Width = 42,
 		Height = 10,
 		Point = "TOP",
@@ -455,7 +453,7 @@ MSQ:AddSkin("Caith", {
 		-- Color = {1, 1, 1, 1},
 		BlendMode = "BLEND",
 		DrawLayer = "OVERLAY",
-		DrawLevel = 5,
+		DrawLevel = 3,
 		Width = 16,
 		Height = 16,
 		Point = "TOPLEFT",

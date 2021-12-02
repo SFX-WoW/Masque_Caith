@@ -5,8 +5,5 @@
 # GitHub
 .github export-ignore
 
-# Lint
-.luacheckrc export-ignore
-
 # Packager
 .pkgmeta export-ignore

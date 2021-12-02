@@ -7,7 +7,6 @@ ignore:
   - .github
   - .gitattributes
   - .gitignore
-  - .luacheckrc
   - .pkgmeta
   - CHANGELOG.md
   - LICENSE.txt

@@ -1,7 +1,7 @@
-## 9.2.5
+## 9.2.6
 
 ### Release Notes
 
-- Updated the `Interface` version for _Retail_ to `90205`.
+- Added Wrath of the Lich King Classic support.
 
-[Release History](https://github.com/SFX-WoW/Masque_Serenity/wiki/History)
+[Release History](https://github.com/SFX-WoW/Masque_Caith/wiki/History)

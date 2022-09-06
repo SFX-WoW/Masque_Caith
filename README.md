@@ -1,3 +1,4 @@
+<a name="Top"></a>
 [![Build][SVG-Build]][Build]
 [![Masque][SVG-Masque]][Masque]
 [![Discord][SVG-Discord]][Discord]
@@ -25,7 +26,7 @@ Install the package through your preferred add-on manager or extract the archive
 
 - **Retail:** `World of Warcraft\_retail_\Interface\AddOns`
 - **Classic:** `World of Warcraft\_classic_era_\Interface\AddOns`
-- **BC Classic:** `World of Warcraft\_classic_\Interface\AddOns`
+- **Wrath Classic:** `World of Warcraft\_classic_\Interface\AddOns`
 
 ## [Credits][Top]
 
@@ -50,7 +51,7 @@ To help translate this add-on, use the [localization system] on CurseForge. Alte
   - [Wago.io]
   - [WoW Interface]
 
-[Links]: #
+[//]: # (Links)
 
 [Build]: https://github.com/SFX-WoW/Masque_Caith/actions/workflows/build-release.yml (Build Status)
 [Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
@@ -72,7 +73,7 @@ To help translate this add-on, use the [localization system] on CurseForge. Alte
 
 [Top]: #Top (Top of the Page)
 
-[Images]: #
+[//]: # (Images)
 
 [SVG-Build]: https://img.shields.io/github/workflow/status/SFX-WoW/Masque_Caith/Build%20Release?label=Build&logo=github&logoColor=fff&style=flat-square
 [SVG-Masque]: https://img.shields.io/endpoint?url=https://wow.stormfx.com/img/svg/masque-skin.json

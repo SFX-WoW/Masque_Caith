@@ -65,7 +65,7 @@ To help translate this add-on, use the [localization system] on CurseForge. Alte
 [Kofi]: https://ko-fi.com/StormFX (Donate via Ko-fi)
 
 [Apathy]: https://github.com/SFX-WoW/Masque_Apathy (Apathy Skin)
-[Caith UI]: https://www.wowinterface.com/forums/member.php?userid=133201 (Caith UI @ WoW Interface)
+[Caith UI]: https://www.wowinterface.com/downloads/info11255 (Caith UI @ WoW Interface)
 
 [Issue Tracker]: https://github.com/SFX-WoW/Masque_Caith/issues (Report an Issue)
 [Localization System]: https://www.curseforge.com/wow/addons/masque-caith/localization (Translate on CurseForge)

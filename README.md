@@ -58,7 +58,7 @@ To help translate this add-on, use the [localization system] on CurseForge. Alte
 
 [Build]: https://github.com/SFX-WoW/Masque_Caith/actions/workflows/build-release.yml (Build Status)
 [Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
-[Discord]: https://discord.gg/DDVqkd6 (Join the Discord)
+[Discord]: https://discord.gg/7MTWRgDzz8 (Join the Discord)
 [Twitter]: https://twitter.com/stormfxi (Follow on Twitter)
 [Sponsor]: https://github.com/sponsors/StormFX (Sponsor on GitHub)
 [PayPal]: https://www.paypal.com/donate/?hosted_button_id=EELAK9TC4W4KQ (Donate via PayPal)

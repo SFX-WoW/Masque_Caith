@@ -40,7 +40,7 @@ For bug reports and suggestions, use the [issue tracker]. Direct any questions o
 
 ## [Localization][Top]
 
-To help translate this add-on, use the [localization system] on CurseForge. Alternatively, you can use the [issue tracker].
+To help translate this add-on, use the [localization system]. Alternatively, you can use the [issue tracker].
 
 ## [Links][Top]
 

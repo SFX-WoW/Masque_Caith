@@ -1,9 +1,11 @@
 ## Interface: 11403
 
 ## Author: StormFX
-## Dependencies: Masque
 ## Title: Masque: Caith
 ## Version: @project-version@
+
+## Dependencies: Masque
+## IconTexture: Interface\AddOns\Masque_Caith\Textures\Icon
 
 ## Notes: Caith skin for Masque.
 ## Notes-deDE: Caith-Skin für Masque.

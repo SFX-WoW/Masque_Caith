@@ -22,13 +22,13 @@ local AddOn, Core = ...
 local L = Core.Locale
 
 ----------------------------------------
--- Local
+-- Locals
 ---
 
 local API_VERSION = 100005
 
 -- Skin Info
-local Version = GetAddOnMetadata(AddOn, "Version")
+local Version = "@project-version@"
 local Websites = {
 	"https://github.com/SFX-WoW/Masque_Caith",
 	"https://www.curseforge.com/wow/addons/masque-caith",

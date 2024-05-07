@@ -1,9 +1,9 @@
-## 10.2.6
+## 10.2.7
 
 ### Release Notes
 
-- Added support for **Cataclysm Classic**. (#58)
-- Updated the `Interface` version for **Retail** to `100206`. (#60)
-- Updated the `Interface` version for **Classic** to `11501`. (#59)
+- Updated the `Interface` version for **Retail** to `100207`. (#63)
+- Updated the `Interface` version for **Vanilla** to `11502`. (#62)
+- Removed support for **Wrath Classic**. (#61)
 
 [Release History](https://github.com/SFX-WoW/Masque_Caith/wiki/History)

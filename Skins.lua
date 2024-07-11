@@ -446,10 +446,11 @@ MSQ:AddSkin("Caith", {
 		OffsetY = -1,
 		-- SetAllPoints = nil,
 	},
+	-- [ Cooldowns ]
 	Cooldown = {
-		-- Texture = nil,
-		-- EdgeTexture = [[Interface\AddOns\Masque\Textures\Cooldown\Edge]],
-		-- PulseTexture = [[Interface\Cooldown\star4]],
+		Texture = [[Interface\AddOns\Masque\Textures\Square\Mask]],
+		EdgeTexture = [[Interface\AddOns\Masque\Textures\Square\Edge]],
+		PulseTexture = [[Interface\Cooldown\star4]],
 		Color = {0, 0, 0, 0.7},
 		Width = 32,
 		Height = 32,
@@ -459,17 +460,8 @@ MSQ:AddSkin("Caith", {
 		OffsetY = 0,
 		-- SetAllPoints = nil,
 	},
-	ChargeCooldown = {
-		-- EdgeTexture = [[Interface\AddOns\Masque\Textures\Cooldown\Edge]],
-		-- PulseTexture = [[Interface\Cooldown\star4]],
-		Width = 32,
-		Height = 32,
-		-- Point = "CENTER",
-		-- RelPoint = "CENTER",
-		-- OffsetX = 0,
-		-- OffsetY = 0,
-		SetAllPoints = true,
-	},
+	ChargeCooldown = "Cooldown",
+	-- [ SpellAlert ]
 	SpellAlert = {
 		Height = 30,
 		Width = 30,

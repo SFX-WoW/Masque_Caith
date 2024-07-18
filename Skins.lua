@@ -495,7 +495,15 @@ MSQ:AddSkin("Caith", {
 	ChargeCooldown = "Cooldown",
 	-- [ SpellAlert ]
 	SpellAlert = {
-		Height = 30,
-		Width = 30,
+		Height = 40,
+		Width = 40,
+		Classic = {
+			Height = 32,
+			Width = 32,
+		},
+		Thin = {
+			Height = 30,
+			Width = 30,
+		},
 	},
 })

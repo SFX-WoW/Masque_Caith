@@ -501,6 +501,10 @@ MSQ:AddSkin("Caith", {
 			Height = 32,
 			Width = 32,
 		},
+		Modern = {
+			Height = 33,
+			Width = 33,
+		},
 		Thin = {
 			Height = 30,
 			Width = 30,

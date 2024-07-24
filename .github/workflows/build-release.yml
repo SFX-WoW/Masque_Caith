@@ -5,8 +5,9 @@ name: Build Release
 on:
   push:
     tags:
-      - '*'
+      - '*.*.*'
       - '!**-alpha**'
+      - '!**-Alpha**'
     paths-ignore:
       - '.github/**'
 

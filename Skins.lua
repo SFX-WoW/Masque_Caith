@@ -105,8 +105,6 @@ MSQ:AddSkin("Caith", {
 		TexCoords = {0.02, 0.98, 0.02, 0.98},
 		-- Color = {1, 1, 1, 1},
 		BlendMode = "BLEND",
-		DrawLayer = "BACKGROUND",
-		DrawLevel = 0,
 		Width = 36,
 		Height = 36,
 		Point = "CENTER",

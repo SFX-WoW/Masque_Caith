@@ -1,9 +1,9 @@
-## 11.0.2
+## 11.1.0
 
 ### Release Notes
 
-- Added support for **The War Within** `11.0.5`. (#72)
-- Added support for **Cataclysm Classic** `4.4.1`.. (#72)
-- Updated the `Interface` version for **Classic Era** to `11504`. (#72)
+- Updated the `Interface` version for **The War Within** to `110100`. (#73)
+- Updated the `Interface` version for **Cataclysm Classic** to `40402`. (#73)
+- Updated the `Interface` version for **Classic Era** to `11506`. (#73)
 
 [Release History](https://github.com/SFX-WoW/Masque_Caith/wiki/History)

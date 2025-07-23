@@ -25,7 +25,7 @@ local L = Core.Locale
 -- Locals
 ---
 
-local API_VERSION = 110000
+local API_VERSION = 110107
 
 -- Skin Info
 local Version = "@project-version@"

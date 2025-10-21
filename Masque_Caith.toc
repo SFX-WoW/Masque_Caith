@@ -4,6 +4,7 @@
 ## Title: Masque: Caith
 ## Version: @project-version@
 
+## Category: Masque
 ## Dependencies: Masque
 ## IconTexture: Interface\AddOns\Masque_Caith\Textures\Icon
 

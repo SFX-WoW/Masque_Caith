@@ -25,7 +25,7 @@ local L = Core.Locale
 -- Locals
 ---
 
-local API_VERSION = 110107
+local API_VERSION = 110207
 
 -- Skin Info
 local Version = "@project-version@"
@@ -491,21 +491,29 @@ MSQ:AddSkin("Caith", {
 		-- SetAllPoints = nil,
 	},
 	ChargeCooldown = "Cooldown",
-	-- [ SpellAlert ]
+	-- [ SpellAlerts ]
 	SpellAlert = {
 		Height = 40,
 		Width = 40,
+		AltGlow = {
+			Height = 46.5,
+			Width = 46.5,
+		},
 		Classic = {
 			Height = 32,
 			Width = 32,
 		},
 		Modern = {
+			Height = 32,
+			Width = 32,
+		},
+		["Modern-Lite"] = {
 			Height = 33,
 			Width = 33,
 		},
-		Thin = {
-			Height = 30,
-			Width = 30,
-		},
+	},
+	AssistedCombatHighlight = {
+		Width = 46.5,
+		Height = 46.5,
 	},
 })

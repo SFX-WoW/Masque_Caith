@@ -2,7 +2,7 @@
 [![Build][SVG-Build]][Build]
 [![Masque][SVG-Masque]][Masque]
 [![Discord][SVG-Discord]][Discord]
-[![Twitter][SVG-Twitter]][Twitter]
+[![X][SVG-X]][X]
 [![Sponsor][SVG-Sponsor]][Sponsor]
 [![PayPal][SVG-PayPal]][PayPal]
 [![Ko-fi][SVG-Kofi]][Kofi]
@@ -55,7 +55,7 @@ To help translate this add-on, use the [localization system]. Alternatively, you
 [Build]: https://github.com/SFX-WoW/Masque_Caith/actions/workflows/build-release.yml (Build Status)
 [Masque]: https://github.com/SFX-WoW/Masque (Download Masque)
 [Discord]: https://discord.gg/7MTWRgDzz8 (Join the Discord)
-[Twitter]: https://twitter.com/stormfxi (Follow on Twitter)
+[X]: https://x.com/stormfxi (Follow on X)
 [Sponsor]: https://github.com/sponsors/StormFX (Sponsor on GitHub)
 [PayPal]: https://www.paypal.com/donate/?hosted_button_id=EELAK9TC4W4KQ (Donate via PayPal)
 [Kofi]: https://ko-fi.com/StormFX (Donate via Ko-fi)
@@ -76,7 +76,7 @@ To help translate this add-on, use the [localization system]. Alternatively, you
 [SVG-Build]: https://img.shields.io/github/actions/workflow/status/SFX-WoW/Masque_Caith/build-release.yml?label=Build&logo=github&logoColor=fff&style=flat-square
 [SVG-Masque]: https://img.shields.io/endpoint?url=https://wow.stormfx.com/img/svg/masque-skin.json
 [SVG-Discord]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/discord.json
-[SVG-Twitter]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/twitter.json
+[SVG-X]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/x.json
 [SVG-Sponsor]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/github-sponsor.json
 [SVG-PayPal]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/paypal.json
 [SVG-Kofi]: https://img.shields.io/endpoint?url=https://www.stormfx.com/img/svg/kofi.json

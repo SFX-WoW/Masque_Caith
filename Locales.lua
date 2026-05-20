@@ -42,7 +42,8 @@ elseif Locale == "frFR" then
 elseif Locale == "itIT" then
 	L["A larger version of Apathy inspired by Caith UI."] = "Una versione più grande di Apathy inspirata dalla UI di Caith."
 --elseif Locale == "koKR" then
---elseif Locale == "ptBR" then
+elseif Locale == "ptBR" then
+	L["A larger version of Apathy inspired by Caith UI."] = "Uma versão maior da Apathy inspirada na Caith UI."
 elseif Locale == "ruRU" then
 	L["A larger version of Apathy inspired by Caith UI."] = "Увеличенная версия Apathy, вдохновленная Caith UI."
 --elseif Locale == "zhCN" then

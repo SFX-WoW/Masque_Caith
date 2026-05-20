@@ -14,8 +14,9 @@
 ## Notes-esES: Skin Caith para Masque.
 ## Notes-frFR: Skin de Caith pour Masque.
 ## Notes-itIT: Skin Caith per Masque.
+## Notes-ptBR: Aparência Caith para o Masque.
 ## Notes-ruRU: Скин Caith для Masque.
-## Notes-zhTW: Masque的Caith皮膚。
+## Notes-zhTW: Masque的Caith外觀。
 
 ## X-Category: Interface Enhancements
 ## X-Credits: Zeal, Caith

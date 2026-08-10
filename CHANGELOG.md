@@ -1,11 +1,12 @@
-## 12.0.5
+## 12.0.7
 
 ### Release Notes
 
-- Updated the `Interface` versions: (#82)
-  - **The War Within**: `120005`
-  - **The Burning Crusade Classic**: `20505`
-  - **Wrath of the Lich King Titan**: `38001`
-- Updated `ptBR`. (Denshi_KRS)(#83)
+- Updated the `Interface` versions:
+  - **Midnight**: `120007`
+  - **Mists of Pandaria Classic**: `50504`
+  - **Wrath of the Lich King Titan**: `38002`
+  - **The Burning Crusade Classic** Anniversary Edition: `20506`
+  - **Classic Era**: `11509`
 
 [Release History](https://github.com/SFX-WoW/Masque_Caith/wiki/History)

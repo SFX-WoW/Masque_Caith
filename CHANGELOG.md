@@ -1,12 +1,8 @@
-## 12.0.7
+## 12.1.0
 
 ### Release Notes
 
 - Updated the `Interface` versions:
-  - **Midnight**: `120007`
-  - **Mists of Pandaria Classic**: `50504`
-  - **Wrath of the Lich King Titan**: `38002`
-  - **The Burning Crusade Classic** Anniversary Edition: `20506`
-  - **Classic Era**: `11509`
+  - **Midnight**: `120100`
 
 [Release History](https://github.com/SFX-WoW/Masque_Caith/wiki/History)

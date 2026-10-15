@@ -1,9 +1,6 @@
-## 12.1.1
+## 12.1.5
 
 ### Release Notes
 
-- Enabled automated localization.
 - Updated the `Interface` version:
-  - **Forever**: `16001`
-
-[Release History](https://github.com/SFX-WoW/Masque_Caith/wiki/History)
+  - **Midnight**: `120105`

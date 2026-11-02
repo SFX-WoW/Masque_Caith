@@ -1,6 +1,5 @@
-## 12.1.5
+## 12.1.6
 
 ### Release Notes
 
-- Updated the `Interface` version:
-  - **Midnight**: `120105`
+- Updated the skin settings to reflect `AutoCast` changes.

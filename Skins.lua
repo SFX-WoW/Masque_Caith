@@ -25,7 +25,7 @@ local L = Core.Locale
 -- Locals
 ---
 
-local API_VERSION = 120000
+local API_VERSION = 120100
 
 -- Skin Info
 local Version = "@project-version@"
@@ -186,21 +186,17 @@ Masque:AddSkin("Caith", {
 		OffsetX = -2,
 		OffsetY = -2,
 	},
-	-- [ AutoCastShine (Classic) ]
-	AutoCastable = {
-		Texture = PATH_BASE.."Indicator",
-		Color = {1, 1, 0, 1},
-		Width = 42,
-		Height = 42,
+	-- [ AutoCastOverlay ]
+	AutoCast_Frame = {
+		Width = 37,
+		Height = 37,
+		Classic = {
+			Width = 35,
+			Height = 35,
+			OffsetX = 1,
+			OffsetY = -1,
+		},
 	},
-	AutoCastShine = {
-		Width = 35,
-		Height = 35,
-		OffsetX = 1,
-		OffsetY = -1,
-	},
-	-- [ AutoCastOverlay (Retail) ]
-	-- AutoCast_Frame = Default.AutoCast_Frame,
 	-- AutoCast_Shine = Default.AutoCast_Shine,
 	AutoCast_Mask = {
 		Texture = [[Interface\AddOns\Masque\Textures\Square\AutoCast-Mask]],
@@ -211,8 +207,16 @@ Masque:AddSkin("Caith", {
 		Atlas = "UI-HUD-ActionBar-PetAutoCast-Corners",
 		Width = 38,
 		Height = 38,
+		Classic = {
+			Texture = PATH_BASE.."Indicator",
+			Color = {1, 0.9, 0, 1},
+			Width = 42,
+			Height = 42,
+			OffsetX = -1,
+			OffsetY = 1,
+		},
 	},
-	-- [ Cooldowns ]
+	-- [ Cooldown ]
 	Cooldown = {
 		Texture = [[Interface\AddOns\Masque\Textures\Square\Mask]],
 		EdgeTexture = [[Interface\AddOns\Masque\Textures\Square\Edge]],
@@ -222,7 +226,7 @@ Masque:AddSkin("Caith", {
 	},
 	CooldownLoC = "Cooldown",
 	ChargeCooldown = "Cooldown",
-	-- [ SpellAlerts ]
+	-- [ SpellAlert ]
 	SpellAlert = {
 		Height = 40,
 		Width = 40,
